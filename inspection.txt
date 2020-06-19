@@ -1,8 +1,0 @@
-new changes
-new changes
-changes to check pull req
-<<<<<<< HEAD
-text for new branch
-=======
-this if for branch master
->>>>>>> master
